@@ -149,7 +149,7 @@ conda create --name yapayzeka python=3.9
 Oluşturulan ortamı etkinleştirmek için:
 
 ```sh
-conda activate oyk25
+conda activate MLWorkshop
 ```
 
 ### 🛠️ Adım 2: Gerekli Kütüphaneleri Kurma
