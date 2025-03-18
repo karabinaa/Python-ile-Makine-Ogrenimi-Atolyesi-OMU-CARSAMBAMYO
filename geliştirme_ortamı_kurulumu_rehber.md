@@ -155,7 +155,7 @@ conda activate MLWorkshop
 ### 🛠️ Adım 2: Gerekli Kütüphaneleri Kurma
 
 ```sh
-conda install numpy pandas scikit-learn matplotlib keras jupyter
+conda install numpy pandas scikit-learn matplotlib jupyter
 ```
 
 ### ✅ Adım 3: Jupyter Notebook’u Başlatma
