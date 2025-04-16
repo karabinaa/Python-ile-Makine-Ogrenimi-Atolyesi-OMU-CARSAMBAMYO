@@ -143,7 +143,7 @@ Yeni bir conda ortamı oluşturup Jupyter dahil gerekli paketleri yüklemek içi
 ### 📌 Adım 1: Yeni Conda Ortamı Oluşturma
 
 ```sh
-conda create --name yapayzeka python=3.9
+conda create --name MlWorkshop python=3.9
 ```
 
 Oluşturulan ortamı etkinleştirmek için:
